@@ -1,0 +1,123 @@
+body {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+
+.top-container {
+  position: relative;
+  color: #ededed;
+  margin-bottom: 100px;
+}
+
+
+
+.middle-container {}
+
+.bottom-container {
+  margin: auto;
+}
+.profile{
+  text-align: left;
+}
+
+.profileimg {
+  width: 200px;
+  border-radius: 100px;
+  margin-top: 10px;
+  margin-left: 80px;
+}
+.about{
+  float: left;
+  margin-right: 300px;
+}
+
+.about-h{
+text-align: center;
+margin-left: 200px;
+}
+
+
+.skillsimg {
+float: left;
+margin-right: 100px;
+margin-top: 50px;
+}
+
+.programming {
+  width: 120px;
+  float: left;
+  margin-right: 50px;
+}
+
+.technicalsupport {
+  width: 120px;
+  float: left;
+  margin-right: 50px;
+
+}
+
+.contact {
+  width: 50px;
+}
+
+h1 {
+  font-size: 5.62rem;
+  margin: auto;
+  font-family: 'Lemonada', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.62rem;
+  color: #66BFBF;
+  font-weight: normal;
+  margin: auto;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+  color: #11999E;
+  font-size: 2rem;
+
+}
+
+.presentation {
+  padding-top: 200px;
+}
+
+.cloud1 {
+  position: absolute;
+  right: 400px;
+  top: 100px;
+}
+
+.cloud2 {
+  position: absolute;
+  left: 400px;
+}
+
+.mountain {}
+
+.footer-link {
+  color: #11999E;
+}
+.skill-row{
+text-align: left;
+margin-left: 10%;
+margin-bottom: 4%;
+
+}
+.skill1{
+  padding-left:
+}
+
+hr{
+  border-style:dotted none none ;
+  width: 2%;
+  border-color: #00a8cc;
+  border-width:10px;
+  margin-top: 12.5%;
+  margin-bottom: 12.5%;
+}
